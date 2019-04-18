@@ -1,5 +1,5 @@
 # The Daily XHub WTF
-
+# [Xhubs APK](https://aapks.com/apk/xhubs/)
 ## Friday Apr 6: JavaScript needs no classes
 
 Functional programming is all the craze these days.
